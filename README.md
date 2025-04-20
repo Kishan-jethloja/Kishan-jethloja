@@ -3,7 +3,7 @@
 ---
 
 - 🌱 I'm diving deep into **Android Development (Java)** and strengthening my **DSA** skills.
-- 🧠 Passionate about **C++, Python, UI/UX, and creative frontend work**
+- 🧠 Passionate about **C++, Python, java, DSA, DBMS, Frontend**
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/kishan-jethloja/) | [Instagram](https://www.instagram.com/kishan_jethloja) | [Email](mailto:jethlojakishan0@gmail.com) 
 
 ---
