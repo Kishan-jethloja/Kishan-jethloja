@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ladanividhi/Ladanividhi/blob/main/banner.png)
+![Banner](https://github.com/kishan-jethloja/kishan-jethloja/blob/main/banner.png)
 
 ---
 
