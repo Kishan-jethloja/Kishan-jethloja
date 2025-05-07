@@ -23,5 +23,5 @@
 
 ## 📊 GitHub Stats
 
-![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan-jethloja&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-jethloja&layout=compact&theme=radical)
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan-jethloja&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-jethloja&layout=compact&theme=radical)
